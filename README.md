@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0897-prime-palindrome) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
