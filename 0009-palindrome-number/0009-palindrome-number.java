@@ -1,10 +1,9 @@
 class Solution {
     public boolean isPalindrome(int x) {
+
         if(x < 0)
-        {
             return false;
-        }
-        
+    
         int copy = x ;
         int rev = 0;
 
@@ -16,11 +15,8 @@ class Solution {
         }
 
         if( rev == copy)
-        {
             return true;
-        }
 
         return false ;
-        
     }
 }
