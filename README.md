@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
