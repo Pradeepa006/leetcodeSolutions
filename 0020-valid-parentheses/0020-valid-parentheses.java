@@ -1,82 +1,47 @@
 class Solution {
     public boolean isValid(String s) {
 
-        // char[] arr = s.toCharArray();
-        // int len = arr.length;
-
-        // char[] temp = new char[len];
-        // int top = -1 ;
-
-        // for (int i = 0 ; i < len ; i++)
-        // {
-        //     if ( arr[i] == '(' || arr[i] == '[' || arr[i] == '{')
-        //     {
-        //         top++;
-        //         temp[top] = arr[i];
-                
-        //     }
-        //     else
-        //     {
-        //         if(top == -1)
-        //         {
-        //             return false;
-        //         }
-        //         if((temp[top] == '{' && arr[i] == '}') || (temp[top] == '[' && arr[i] == ']') || (temp[top] == '(' && arr[i] == ')') )
-        //         {
-        //             top--;
-        //         }
-        //         else{
-        //             return false;
-        //         }
-               
-
-        //     }
-        // }
-
-        // if(top == -1)
-        // {
-        //     return true;
-        // }
-        // else{
-        //     return false;
-        // }
-
-
-        Stack<Character> stack = new Stack<>();
         char[] arr = s.toCharArray();
         int len = arr.length;
 
-        for (int i = 0 ; i < len ; i++){
-            if ( arr[i] == '(' || arr[i] == '[' || arr[i] == '{'){
-                stack.push(arr[i]);
+        char[] temp = new char[len];
+        int top = -1 ;
+
+        for (int i = 0 ; i < len ; i++)
+        {
+            if ( arr[i] == '(' || arr[i] == '[' || arr[i] == '{')
+            {
+                top++;
+                temp[top] = arr[i];
+                
             }
-            else{
-                if(stack.isEmpty())
+            else
+            {
+                if(top == -1)
                 {
                     return false;
                 }
-                char peek = stack.peek();
-                if((peek == '{' && arr[i] == '}') || (peek == '[' && arr[i] == ']') || (peek == '(' && arr[i] == ')') )
+                if((temp[top] == '{' && arr[i] == '}') || (temp[top] == '[' && arr[i] == ']') || (temp[top] == '(' && arr[i] == ')') )
                 {
-                    stack.pop();
+                    top--;
                 }
-                else
-                {
+                else{
                     return false;
                 }
-
+               
 
             }
-
         }
-        if(stack.isEmpty())
+
+        if(top == -1)
         {
             return true;
         }
-        else
-        {
+        else{
             return false;
         }
+        
+
         
     }
 }
