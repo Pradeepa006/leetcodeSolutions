@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0812-rotate-string) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
