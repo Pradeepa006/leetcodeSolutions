@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
