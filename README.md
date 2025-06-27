@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -95,4 +96,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
