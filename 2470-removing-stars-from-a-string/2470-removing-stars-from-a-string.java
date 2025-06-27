@@ -8,7 +8,7 @@ class Solution {
         int l = arr.length;
 
         for (int i = 0 ; i < l ; i++){
-            if(arr[i] == '*'){
+            if(arr[i] == '*' && (!st.isEmpty())){
                 st.pop();
             }
             else{
