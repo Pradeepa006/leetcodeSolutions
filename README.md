@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0507-perfect-number) |
 | [0897-prime-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1013-fibonacci-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
