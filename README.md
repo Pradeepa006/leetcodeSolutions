@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 <!---LeetCode Topics End-->
