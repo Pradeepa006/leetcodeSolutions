@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -158,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
