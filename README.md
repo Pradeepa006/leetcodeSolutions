@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0507-perfect-number) |
 | [0897-prime-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0897-prime-palindrome) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0202-happy-number) |
