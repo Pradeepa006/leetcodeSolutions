@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0125-valid-palindrome) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
