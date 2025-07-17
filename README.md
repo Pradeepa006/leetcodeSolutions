@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0507-perfect-number) |
 | [0897-prime-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 ## Number Theory
 |  |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
