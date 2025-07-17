@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
+| [3312-number-of-changing-keys](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3312-number-of-changing-keys) |
 ## Trie
 |  |
 | ------- |
