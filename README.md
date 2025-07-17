@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [0742-to-lower-case](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
