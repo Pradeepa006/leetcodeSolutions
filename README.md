@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
