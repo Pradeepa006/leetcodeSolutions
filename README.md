@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0238-product-of-array-except-self) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1610-xor-operation-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
