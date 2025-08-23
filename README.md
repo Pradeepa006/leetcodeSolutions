@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0742-to-lower-case) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0394-decode-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
