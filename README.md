@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1755-defuse-the-bomb](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
 |  |
 | ------- |
