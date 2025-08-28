@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0455-assign-cookies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3194-find-words-containing-character](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [3748-sort-matrix-by-diagonals](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
 <!---LeetCode Topics End-->
