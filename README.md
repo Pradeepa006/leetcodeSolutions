@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0455-assign-cookies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Divide and Conquer
 |  |
 | ------- |
