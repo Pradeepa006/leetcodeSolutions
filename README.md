@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0112-path-sum) |
+## Design
+|  |
+| ------- |
+| [1865-finding-pairs-with-a-certain-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
