@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
+| [2211-count-collisions-on-a-road](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
@@ -209,10 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0394-decode-string) |
+| [2211-count-collisions-on-a-road](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
