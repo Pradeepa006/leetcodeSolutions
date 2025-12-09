@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3583-count-special-triplets](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Sorting
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3583-count-special-triplets](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
+| [3583-count-special-triplets](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3583-count-special-triplets) |
 ## Matrix
 |  |
 | ------- |
