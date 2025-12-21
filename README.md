@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
