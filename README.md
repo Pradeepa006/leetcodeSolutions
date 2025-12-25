@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0455-assign-cookies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-find-words-containing-character](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3531-count-covered-buildings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3531-count-covered-buildings) |
