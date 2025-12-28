@@ -4,11 +4,17 @@ class Solution {
         int row = grid.length;
         int col = grid[0].length;
         for(int i = 0 ; i < row ; i++){
-            for(int j = 0 ; j < col ; j++){
-                if(grid[i][j] < 0){
-                    count++;
+            int l = 0 , r = col - 1;
+            while(l <= r){
+                int mid = l + (r - l) / 2;
+                if(grid[i][mid] < 0){
+                    r = mid - 1;
+                }
+                else{
+                    l = mid + 1;
                 }
             }
+            count += (col - l);
         }
         return count;
     }
