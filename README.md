@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0768-partition-labels) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2402-meeting-rooms-iii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2402-meeting-rooms-iii) |
@@ -282,20 +283,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Design
 |  |
 | ------- |
