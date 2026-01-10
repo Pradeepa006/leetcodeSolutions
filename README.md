@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0680-valid-palindrome-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0812-rotate-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
