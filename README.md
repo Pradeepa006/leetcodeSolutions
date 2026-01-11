@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1991-find-the-middle-index-in-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2402-meeting-rooms-iii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2402-meeting-rooms-iii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
+| [1991-find-the-middle-index-in-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Sliding Window
