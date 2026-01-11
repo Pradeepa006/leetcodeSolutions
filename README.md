@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0507-perfect-number) |
 | [0897-prime-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1013-fibonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1610-xor-operation-in-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2032-largest-odd-number-in-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0768-partition-labels) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1512-number-of-good-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [2402-meeting-rooms-iii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2402-meeting-rooms-iii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1512-number-of-good-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1512-number-of-good-pairs) |
 | [3583-count-special-triplets](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3583-count-special-triplets) |
 ## Matrix
 |  |
