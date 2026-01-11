@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1833-find-the-highest-altitude) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
