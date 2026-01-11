@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0119-pascals-triangle-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0394-decode-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
