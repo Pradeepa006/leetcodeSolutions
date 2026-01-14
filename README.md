@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0344-reverse-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
