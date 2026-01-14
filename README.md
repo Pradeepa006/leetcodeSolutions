@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-find-words-containing-character](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3194-find-words-containing-character) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3454-separate-squares-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3454-separate-squares-ii) |
 | [3531-count-covered-buildings](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3531-count-covered-buildings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3583-count-special-triplets) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3454-separate-squares-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3454-separate-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -351,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
