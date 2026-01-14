@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0141-linked-list-cycle) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
 | [0394-decode-string](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0394-decode-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2211-count-collisions-on-a-road) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0085-maximal-rectangle) |
 ## Segment Tree
 |  |
