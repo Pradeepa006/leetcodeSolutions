@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0912-sort-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0912-sort-an-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0912-sort-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0912-sort-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/2402-meeting-rooms-iii) |
 ## Union Find
 |  |
@@ -366,4 +370,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/3454-separate-squares-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pradeepa006/leetcodeSolutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
